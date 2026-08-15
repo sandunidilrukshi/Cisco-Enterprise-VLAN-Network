@@ -57,3 +57,7 @@ The following were tested:
 ## 📂 Project File
 
 The Cisco Packet Tracer `.pkt` file is included in this repository.
+
+## 🌐 Network Topology
+
+![Network Topology](01-Complete-Topology.png)
