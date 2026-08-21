@@ -6,6 +6,10 @@ This project demonstrates the design and implementation of a Cisco-based enterpr
 
 The network is divided into multiple VLANs to provide logical network segmentation for different departments.
 
+## 🌐 Network Topology
+
+![Network Topology](01-Complete-Topology.png)
+
 ## 🏢 VLAN Structure
 
 | VLAN | Department | Network |
@@ -58,6 +62,4 @@ The following were tested:
 
 The Cisco Packet Tracer `.pkt` file is included in this repository.
 
-## 🌐 Network Topology
 
-![Network Topology](01-Complete-Topology.png)
