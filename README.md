@@ -60,4 +60,4 @@ The Cisco Packet Tracer `.pkt` file is included in this repository.
 
 ## 🌐 Network Topology
 
-[Network Topology] (01-Complete Topology (2).png)
+![Network Topology](Screenshots/01-Complete Topology (2).png)
